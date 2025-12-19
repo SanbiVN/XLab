@@ -1,0 +1,4 @@
+﻿  LabAZ.cpp
+D:\DevCode\Excel\AddIns\LabAZ\Library\CPP\LabAZ\LabAZ.cpp(34,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DevCode\Excel\AddIns\LabAZ\Library\CPP\LabAZ\LabAZ.cpp(35,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LabAZ.vcxproj -> D:\DevCode\Excel\AddIns\LabAZ\Library\CPP\LabAZ\x64\Debug\LabAZ.exe
